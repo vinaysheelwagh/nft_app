@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nft_app",
-    "slug": "nft_app",
+    "name": "NFTDemoMarketPlace",
+    "slug": "NFTDemoMarketPlace",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
